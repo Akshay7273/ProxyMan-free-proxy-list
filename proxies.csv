@@ -1,406 +1,350 @@
 address,ip,port,protocol,anonymity,latency,ssl_supported,country_code,country_name
-43.135.153.37:47783,43.135.153.37,47783,socks5,elite,0.047,True,US,United States
-154.201.75.64:1100,154.201.75.64,1100,socks5,elite,0.065,True,SC,Seychelles
-43.153.79.124:47783,43.153.79.124,47783,socks5,elite,0.047,True,US,United States
-154.201.75.64:1011,154.201.75.64,1011,socks5,elite,0.068,True,SC,Seychelles
-43.162.113.87:2080,43.162.113.87,2080,socks5,elite,0.046,True,US,United States
-103.91.144.55:40000,103.91.144.55,40000,socks5,elite,0.118,True,US,United States
-104.200.135.46:4145,104.200.135.46,4145,socks5,elite,0.133,True,US,United States
-104.200.152.30:4145,104.200.152.30,4145,socks5,elite,0.134,True,US,United States
-104.37.135.145:4145,104.37.135.145,4145,socks5,elite,0.133,True,US,United States
-107.181.161.81:4145,107.181.161.81,4145,socks5,elite,0.133,True,US,United States
-107.152.98.5:4145,107.152.98.5,4145,socks5,elite,0.134,True,US,United States
-107.181.168.145:4145,107.181.168.145,4145,socks5,elite,0.135,True,US,United States
-142.54.226.214:4145,142.54.226.214,4145,socks5,elite,0.132,True,US,United States
-142.54.236.97:4145,142.54.236.97,4145,socks5,elite,0.134,True,US,United States
-142.54.237.38:4145,142.54.237.38,4145,socks5,elite,0.134,True,US,United States
-142.54.231.38:4145,142.54.231.38,4145,socks5,elite,0.135,True,US,United States
-152.53.194.105:1080,152.53.194.105,1080,socks5,elite,0.139,True,US,United States
-206.206.103.117:8888,206.206.103.117,8888,http,elite,0.061,False,US,United States
-184.170.245.148:4145,184.170.245.148,4145,socks5,elite,0.203,True,US,United States
-184.170.249.65:4145,184.170.249.65,4145,socks5,elite,0.203,True,US,United States
-184.170.251.30:11288,184.170.251.30,11288,socks5,elite,0.203,True,US,United States
-184.170.248.5:4145,184.170.248.5,4145,socks5,elite,0.204,True,US,United States
-192.111.135.18:18301,192.111.135.18,18301,socks5,elite,0.203,True,US,United States
-192.111.139.163:19404,192.111.139.163,19404,socks5,elite,0.202,True,US,United States
-192.111.130.2:4145,192.111.130.2,4145,socks5,elite,0.203,True,US,United States
-199.66.182.243:4145,199.66.182.243,4145,socks5,elite,0.202,True,US,United States
-199.66.183.251:4145,199.66.183.251,4145,socks5,elite,0.201,True,US,United States
-199.66.183.226:4145,199.66.183.226,4145,socks5,elite,0.202,True,US,United States
-35.78.212.217:32053,35.78.212.217,32053,socks5,elite,0.198,True,JP,Japan
-174.77.111.197:4145,174.77.111.197,4145,socks5,elite,0.241,True,US,United States
-174.75.211.193:4145,174.75.211.193,4145,socks5,elite,0.241,True,US,United States
-174.77.111.198:49547,174.77.111.198,49547,socks5,elite,0.242,True,US,United States
-121.169.46.116:1090,121.169.46.116,1090,socks5,elite,0.248,True,KR,South Korea
-174.64.199.82:4145,174.64.199.82,4145,socks5,elite,0.243,True,US,United States
-174.77.111.196:4145,174.77.111.196,4145,socks5,elite,0.245,True,US,United States
-184.185.2.12:4145,184.185.2.12,4145,socks5,elite,0.238,True,US,United States
-184.178.172.25:15291,184.178.172.25,15291,socks5,elite,0.242,True,US,United States
-184.178.172.11:4145,184.178.172.11,4145,socks5,elite,0.241,True,US,United States
-184.178.172.17:4145,184.178.172.17,4145,socks5,elite,0.243,True,US,United States
-174.75.211.222:4145,174.75.211.222,4145,socks5,elite,0.246,True,US,United States
-184.178.172.18:15280,184.178.172.18,15280,socks5,elite,0.242,True,US,United States
-184.178.172.23:4145,184.178.172.23,4145,socks5,elite,0.243,True,US,United States
-184.181.217.213:4145,184.181.217.213,4145,socks5,elite,0.239,True,US,United States
-184.181.217.220:4145,184.181.217.220,4145,socks5,elite,0.239,True,US,United States
-184.178.172.28:15294,184.178.172.28,15294,socks5,elite,0.242,True,US,United States
-184.178.172.13:15311,184.178.172.13,15311,socks5,elite,0.244,True,US,United States
-184.178.172.5:15303,184.178.172.5,15303,socks5,elite,0.242,True,US,United States
-184.178.172.3:4145,184.178.172.3,4145,socks5,elite,0.243,True,US,United States
-184.181.178.33:4145,184.181.178.33,4145,socks5,elite,0.24,True,US,United States
-184.181.217.201:4145,184.181.217.201,4145,socks5,elite,0.244,True,US,United States
-184.181.217.206:4145,184.181.217.206,4145,socks5,elite,0.244,True,US,United States
-174.64.199.79:4145,174.64.199.79,4145,socks5,elite,0.251,True,US,United States
-184.181.217.194:4145,184.181.217.194,4145,socks5,elite,0.246,True,US,United States
-24.249.199.4:4145,24.249.199.4,4145,socks5,elite,0.239,True,US,United States
-24.249.199.12:4145,24.249.199.12,4145,socks5,elite,0.243,True,US,United States
-124.156.182.217:1080,124.156.182.217,1080,socks5,elite,0.277,True,HK,Hong Kong
-23.228.86.236:8081,23.228.86.236,8081,http,elite,0.192,False,US,United States
-13.38.217.179:29788,13.38.217.179,29788,socks5,elite,0.303,True,FR,France
-120.220.197.196:59999,120.220.197.196,59999,socks5,elite,0.302,True,CN,China
-37.187.140.119:3080,37.187.140.119,3080,socks5,elite,0.282,True,FR,France
-150.241.103.177:30000,150.241.103.177,30000,socks5,elite,0.296,True,US,United States
-151.247.209.14:1080,151.247.209.14,1080,socks5,elite,0.299,True,DE,Germany
-157.90.113.23:9052,157.90.113.23,9052,socks5,elite,0.305,True,DE,Germany
-152.228.134.176:48080,152.228.134.176,48080,socks5,elite,0.304,True,FR,France
-223.99.197.190:11012,223.99.197.190,11012,socks5,elite,0.297,True,CN,China
-147.45.39.160:30000,147.45.39.160,30000,socks5,elite,0.31,True,DE,Germany
-194.163.174.78:1090,194.163.174.78,1090,socks5,elite,0.304,True,FR,France
-194.163.174.78:1083,194.163.174.78,1083,socks5,elite,0.303,True,FR,France
-15.237.108.20:54588,15.237.108.20,54588,socks5,elite,0.32,True,FR,France
-154.203.132.81:5080,154.203.132.81,5080,socks5,elite,0.315,True,HK,Hong Kong
-112.28.149.156:8443,112.28.149.156,8443,socks5,elite,0.337,True,CN,China
-162.214.159.94:8085,162.214.159.94,8085,http,elite,0.198,False,US,United States
-162.214.74.29:8085,162.214.74.29,8085,http,elite,0.198,False,US,United States
-5.78.108.236:5555,5.78.108.236,5555,socks5,elite,0.04,True,US,United States
-178.172.236.167:8081,178.172.236.167,8081,socks5,elite,0.34,True,BY,Belarus
-37.9.4.101:1088,37.9.4.101,1088,socks5,elite,0.34,True,RU,Russia
-158.160.234.55:1080,158.160.234.55,1080,socks5,elite,0.358,True,RU,Russia
-36.33.1.106:43681,36.33.1.106,43681,socks5,elite,0.363,True,CN,China
-34.44.49.215:80,34.44.49.215,80,http,elite,0.176,False,US,United States
-144.31.222.106:7890,144.31.222.106,7890,socks5,elite,0.387,True,RU,Russia
-125.24.156.113:7080,125.24.156.113,7080,socks5,elite,0.402,True,TH,Thailand
-27.155.93.29:5080,27.155.93.29,5080,socks5,elite,0.406,True,CN,China
-47.238.234.194:1011,47.238.234.194,1011,socks5,elite,0.279,True,HK,Hong Kong
-113.250.190.81:32735,113.250.190.81,32735,socks5,elite,0.428,True,CN,China
-186.246.14.205:9050,186.246.14.205,9050,socks5,elite,0.418,True,RU,Russia
-144.24.111.128:1088,144.24.111.128,1088,socks5,elite,0.428,True,IN,India
-47.238.197.190:1011,47.238.197.190,1011,socks5,elite,0.303,True,HK,Hong Kong
-51.222.104.72:1080,51.222.104.72,1080,socks5,elite,0.134,True,CA,Canada
-47.236.184.206:1011,47.236.184.206,1011,socks5,elite,0.325,True,SG,Singapore
-47.237.132.36:1011,47.237.132.36,1011,socks5,elite,0.327,True,SG,Singapore
-208.102.51.6:58208,208.102.51.6,58208,socks5,elite,0.437,True,US,United States
-47.237.100.95:1011,47.237.100.95,1011,socks5,elite,0.349,True,SG,Singapore
-5.249.165.195:20000,5.249.165.195,20000,socks5,elite,0.201,True,DE,Germany
-150.241.91.238:7777,150.241.91.238,7777,socks5,elite,0.557,True,DE,Germany
-31.24.251.15:1081,31.24.251.15,1081,socks5,elite,0.459,True,FR,France
-47.76.81.34:1122,47.76.81.34,1122,socks5,elite,0.28,True,HK,Hong Kong
-47.82.107.150:1011,47.82.107.150,1011,socks5,elite,0.28,True,HK,Hong Kong
-47.76.149.237:1011,47.76.149.237,1011,socks5,elite,0.285,True,HK,Hong Kong
-47.82.65.93:1011,47.82.65.93,1011,socks5,elite,0.284,True,HK,Hong Kong
-47.83.27.173:1122,47.83.27.173,1122,socks5,elite,0.282,True,HK,Hong Kong
-47.83.14.133:1011,47.83.14.133,1011,socks5,elite,0.284,True,HK,Hong Kong
-45.194.33.12:30001,45.194.33.12,30001,socks5,elite,0.41,True,SC,Seychelles
-144.91.121.61:1088,144.91.121.61,1088,socks5,elite,0.598,True,FR,France
-134.209.18.113:1088,134.209.18.113,1088,socks5,elite,0.794,True,GB,United Kingdom
-67.207.92.87:1088,67.207.92.87,1088,socks5,elite,0.15,True,US,United States
-5.35.85.97:1080,5.35.85.97,1080,socks5,elite,0.383,True,RU,Russia
-67.203.23.88:8081,67.203.23.88,8081,http,elite,0.074,False,US,United States
-67.203.23.79:8081,67.203.23.79,8081,http,elite,0.067,False,US,United States
-156.245.246.51:7890,156.245.246.51,7890,socks5,elite,0.905,True,SC,Seychelles
-68.1.210.189:4145,68.1.210.189,4145,socks5,elite,0.239,True,US,United States
-68.1.210.163:4145,68.1.210.163,4145,socks5,elite,0.238,True,US,United States
-119.28.64.217:58367,119.28.64.217,58367,socks5,elite,0.967,True,HK,Hong Kong
-65.109.148.248:1080,65.109.148.248,1080,socks5,elite,0.356,True,FI,Finland
-70.166.167.55:57745,70.166.167.55,57745,socks5,elite,0.238,True,US,United States
-70.166.167.38:57728,70.166.167.38,57728,socks5,elite,0.243,True,US,United States
-72.195.101.99:4145,72.195.101.99,4145,socks5,elite,0.239,True,US,United States
-72.195.114.169:4145,72.195.114.169,4145,socks5,elite,0.239,True,US,United States
-72.195.34.35:27360,72.195.34.35,27360,socks5,elite,0.241,True,US,United States
-72.195.114.184:4145,72.195.114.184,4145,socks5,elite,0.243,True,US,United States
-72.195.34.41:4145,72.195.34.41,4145,socks5,elite,0.239,True,US,United States
-65.21.252.66:10811,65.21.252.66,10811,socks5,elite,0.364,True,FI,Finland
-43.133.175.183:7890,43.133.175.183,7890,http,elite,0.537,False,JP,Japan
-72.206.74.126:4145,72.206.74.126,4145,socks5,elite,0.245,True,US,United States
-72.207.109.5:4145,72.207.109.5,4145,socks5,elite,0.235,True,US,United States
-185.185.80.58:1088,185.185.80.58,1088,socks5,elite,1.003,True,FR,France
-16.163.88.228:80,16.163.88.228,80,http,elite,0.291,False,HK,Hong Kong
-216.68.128.121:4145,216.68.128.121,4145,socks5,elite,1.062,True,US,United States
-72.207.33.64:4145,72.207.33.64,4145,socks5,elite,0.241,True,US,United States
-216.22.13.244:1083,216.22.13.244,1083,socks5,elite,1.096,True,US,United States
-66.42.224.229:41679,66.42.224.229,41679,socks5,elite,0.445,True,US,United States
-109.199.119.160:80,109.199.119.160,80,http,elite,0.305,False,FR,France
-72.223.188.67:4145,72.223.188.67,4145,socks5,elite,0.241,True,US,United States
-72.223.188.92:4145,72.223.188.92,4145,socks5,elite,0.238,True,US,United States
-45.146.163.31:80,45.146.163.31,80,http,elite,0.551,False,JP,Japan
-69.61.200.104:36181,69.61.200.104,36181,socks5,elite,0.441,True,US,United States
-178.212.144.7:80,178.212.144.7,80,http,elite,0.331,False,PL,Poland
-43.160.255.142:7890,43.160.255.142,7890,socks5,elite,0.322,True,SG,Singapore
-13.214.205.160:8024,13.214.205.160,8024,socks5,elite,1.519,True,SG,Singapore
-72.49.49.11:31034,72.49.49.11,31034,socks5,elite,0.433,True,US,United States
-47.91.65.12:80,47.91.65.12,80,http,elite,0.301,False,DE,Germany
-184.182.240.211:4145,184.182.240.211,4145,socks5,elite,1.691,True,US,United States
-13.214.151.56:8081,13.214.151.56,8081,http,elite,0.752,True,SG,Singapore
-192.229.85.39:33142,192.229.85.39,33142,socks5,elite,1.685,True,SG,Singapore
-184.182.240.12:4145,184.182.240.12,4145,socks5,elite,1.84,True,US,United States
-5.45.126.128:8080,5.45.126.128,8080,http,elite,0.544,False,EE,Estonia
-101.66.199.234:8085,101.66.199.234,8085,http,elite,0.887,False,CN,China
-185.135.69.34:80,185.135.69.34,80,http,elite,0.478,False,IQ,Iraq
-223.75.121.218:12120,223.75.121.218,12120,socks5,elite,0.735,True,CN,China
-219.93.101.62:80,219.93.101.62,80,http,elite,0.914,False,MY,Malaysia
-202.28.194.139:31280,202.28.194.139,31280,http,elite,0.917,True,TH,Thailand
-219.93.101.60:80,219.93.101.60,80,http,elite,0.931,False,MY,Malaysia
-125.122.35.253:8086,125.122.35.253,8086,http,elite,0.931,False,CN,China
-219.93.101.63:80,219.93.101.63,80,http,elite,0.941,False,MY,Malaysia
-45.79.9.246:1080,45.79.9.246,1080,socks5,elite,2.085,True,US,United States
-8.218.106.33:1011,8.218.106.33,1011,socks5,elite,0.285,True,HK,Hong Kong
-153.0.171.163:8085,153.0.171.163,8085,http,elite,0.993,False,CN,China
-93.115.172.144:1080,93.115.172.144,1080,socks5,elite,0.287,True,NL,The Netherlands
-93.190.247.126:30001,93.190.247.126,30001,socks5,elite,0.29,True,NL,The Netherlands
-91.107.254.246:9104,91.107.254.246,9104,socks5,elite,0.313,True,DE,Germany
-113.204.79.230:9091,113.204.79.230,9091,http,elite,1.161,False,CN,China
-85.198.82.207:1080,85.198.82.207,1080,socks5,elite,0.396,True,RU,Russia
-149.129.213.200:80,149.129.213.200,80,socks5,elite,2.355,True,ID,Indonesia
-149.129.255.179:10443,149.129.255.179,10443,socks5,elite,2.361,True,ID,Indonesia
-27.34.242.98:80,27.34.242.98,80,http,elite,0.951,False,IN,India
-47.237.107.41:2000,47.237.107.41,2000,socks5,elite,2.332,True,SG,Singapore
-47.237.107.41:135,47.237.107.41,135,socks5,elite,2.333,True,SG,Singapore
-47.237.2.245:1311,47.237.2.245,1311,socks5,elite,2.328,True,SG,Singapore
-47.237.2.245:119,47.237.2.245,119,socks5,elite,2.334,True,SG,Singapore
-47.237.2.245:1081,47.237.2.245,1081,socks5,elite,2.329,True,SG,Singapore
-47.237.2.245:8888,47.237.2.245,8888,socks5,elite,2.324,True,SG,Singapore
-47.237.2.245:2002,47.237.2.245,2002,socks5,elite,2.329,True,SG,Singapore
-47.237.113.119:6379,47.237.113.119,6379,socks5,elite,2.346,True,SG,Singapore
-47.237.113.119:8008,47.237.113.119,8008,socks5,elite,2.344,True,SG,Singapore
-47.237.113.119:14,47.237.113.119,14,socks5,elite,2.347,True,SG,Singapore
-47.237.2.245:45,47.237.2.245,45,socks5,elite,2.339,True,SG,Singapore
-47.237.113.119:8443,47.237.113.119,8443,socks5,elite,2.346,True,SG,Singapore
-47.237.2.245:2000,47.237.2.245,2000,socks5,elite,2.338,True,SG,Singapore
-47.237.2.245:5060,47.237.2.245,5060,socks5,elite,2.337,True,SG,Singapore
-47.237.2.245:80,47.237.2.245,80,socks5,elite,2.336,True,SG,Singapore
-47.237.2.245:443,47.237.2.245,443,socks5,elite,2.339,True,SG,Singapore
-47.237.113.119:89,47.237.113.119,89,socks5,elite,2.342,True,SG,Singapore
-47.237.2.245:6379,47.237.2.245,6379,socks5,elite,2.334,True,SG,Singapore
-47.237.2.245:87,47.237.2.245,87,socks5,elite,2.334,True,SG,Singapore
-47.237.2.245:9098,47.237.2.245,9098,socks5,elite,2.333,True,SG,Singapore
-47.250.11.111:13,47.250.11.111,13,socks5,elite,2.333,True,MY,Malaysia
-47.250.11.111:161,47.250.11.111,161,socks5,elite,2.331,True,MY,Malaysia
-47.250.11.111:199,47.250.11.111,199,socks5,elite,2.331,True,MY,Malaysia
-47.250.11.111:80,47.250.11.111,80,socks5,elite,2.335,True,MY,Malaysia
-47.250.11.111:81,47.250.11.111,81,socks5,elite,2.337,True,MY,Malaysia
-47.250.177.202:111,47.250.177.202,111,socks5,elite,2.332,True,MY,Malaysia
-47.250.155.254:111,47.250.155.254,111,socks5,elite,2.333,True,MY,Malaysia
-47.250.177.202:3129,47.250.177.202,3129,socks5,elite,2.333,True,MY,Malaysia
-47.250.177.202:8081,47.250.177.202,8081,socks5,elite,2.332,True,MY,Malaysia
-47.250.155.254:1081,47.250.155.254,1081,socks5,elite,2.334,True,MY,Malaysia
-47.250.177.202:41451,47.250.177.202,41451,socks5,elite,2.333,True,MY,Malaysia
-47.250.155.254:45,47.250.155.254,45,socks5,elite,2.334,True,MY,Malaysia
-47.250.155.254:3129,47.250.155.254,3129,socks5,elite,2.334,True,MY,Malaysia
-47.250.155.254:8003,47.250.155.254,8003,socks5,elite,2.335,True,MY,Malaysia
-47.250.177.202:80,47.250.177.202,80,socks5,elite,2.333,True,MY,Malaysia
-47.250.177.202:8083,47.250.177.202,8083,socks5,elite,2.331,True,MY,Malaysia
-47.250.155.254:8080,47.250.155.254,8080,socks5,elite,2.333,True,MY,Malaysia
-47.250.155.254:8004,47.250.155.254,8004,socks5,elite,2.335,True,MY,Malaysia
-47.250.155.254:8443,47.250.155.254,8443,socks5,elite,2.334,True,MY,Malaysia
-47.250.177.202:9080,47.250.177.202,9080,socks5,elite,2.331,True,MY,Malaysia
-47.250.177.202:8118,47.250.177.202,8118,socks5,elite,2.333,True,MY,Malaysia
-47.250.177.202:8888,47.250.177.202,8888,socks5,elite,2.334,True,MY,Malaysia
-47.250.177.202:8181,47.250.177.202,8181,socks5,elite,2.332,True,MY,Malaysia
-47.250.159.65:50,47.250.159.65,50,socks5,elite,2.344,True,MY,Malaysia
-47.250.177.202:999,47.250.177.202,999,socks5,elite,2.343,True,MY,Malaysia
-61.158.175.38:9002,61.158.175.38,9002,http,elite,0.957,False,CN,China
-47.250.51.110:1081,47.250.51.110,1081,socks5,elite,2.336,True,MY,Malaysia
-47.254.36.213:104,47.254.36.213,104,socks5,elite,2.314,True,US,United States
-47.250.51.110:8060,47.250.51.110,8060,socks5,elite,2.338,True,MY,Malaysia
-47.250.159.65:9000,47.250.159.65,9000,socks5,elite,2.353,True,MY,Malaysia
-91.199.43.167:8082,91.199.43.167,8082,socks5,elite,0.584,True,IR,Iran
-47.250.51.110:50070,47.250.51.110,50070,socks5,elite,2.341,True,MY,Malaysia
-47.250.159.65:443,47.250.159.65,443,socks5,elite,2.356,True,MY,Malaysia
-47.250.51.110:8443,47.250.51.110,8443,socks5,elite,2.342,True,MY,Malaysia
-47.250.51.110:9090,47.250.51.110,9090,socks5,elite,2.349,True,MY,Malaysia
-47.250.51.110:4145,47.250.51.110,4145,socks5,elite,2.351,True,MY,Malaysia
-159.138.169.48:2080,159.138.169.48,2080,socks5,elite,2.557,True,ZA,South Africa
-164.52.216.68:8080,164.52.216.68,8080,http,elite,0.905,True,IN,India
-47.76.144.139:8081,47.76.144.139,8081,socks5,elite,2.37,True,HK,Hong Kong
-47.76.144.139:9443,47.76.144.139,9443,socks5,elite,2.378,True,HK,Hong Kong
-47.76.144.139:81,47.76.144.139,81,socks5,elite,2.378,True,HK,Hong Kong
-47.242.243.198:2233,47.242.243.198,2233,http,elite,1.741,True,HK,Hong Kong
-164.52.211.20:8080,164.52.211.20,8080,http,elite,0.902,True,IN,India
-185.88.177.40:80,185.88.177.40,80,http,elite,1.305,False,IR,Iran
-14.139.235.82:3128,14.139.235.82,3128,http,elite,1.075,True,IN,India
-47.92.219.102:8090,47.92.219.102,8090,socks5,elite,2.403,True,CN,China
-195.26.230.202:8080,195.26.230.202,8080,http,elite,0.622,False,FI,Finland
-47.91.104.110:80,47.91.104.110,80,socks5,elite,2.454,True,AE,United Arab Emirates
-47.90.167.27:11,47.90.167.27,11,socks5,elite,2.139,True,US,United States
-89.169.190.135:1080,89.169.190.135,1080,socks5,elite,0.905,True,RU,Russia
-47.91.121.127:194,47.91.121.127,194,socks5,elite,2.454,True,AE,United Arab Emirates
-47.91.115.179:45,47.91.115.179,45,socks5,elite,2.457,True,AE,United Arab Emirates
-47.91.110.148:8123,47.91.110.148,8123,socks5,elite,2.468,True,AE,United Arab Emirates
-47.91.110.148:8443,47.91.110.148,8443,socks5,elite,2.467,True,AE,United Arab Emirates
-47.91.121.127:9080,47.91.121.127,9080,socks5,elite,2.468,True,AE,United Arab Emirates
-47.91.120.190:1234,47.91.120.190,1234,socks5,elite,2.464,True,AE,United Arab Emirates
-47.91.121.127:6379,47.91.121.127,6379,socks5,elite,2.463,True,AE,United Arab Emirates
-47.91.121.127:50,47.91.121.127,50,socks5,elite,2.471,True,AE,United Arab Emirates
-47.91.120.190:3129,47.91.120.190,3129,socks5,elite,2.463,True,AE,United Arab Emirates
-47.91.121.127:8443,47.91.121.127,8443,socks5,elite,2.468,True,AE,United Arab Emirates
-47.91.121.127:81,47.91.121.127,81,socks5,elite,2.469,True,AE,United Arab Emirates
-47.91.115.179:31433,47.91.115.179,31433,socks5,elite,2.473,True,AE,United Arab Emirates
-47.91.121.127:10000,47.91.121.127,10000,socks5,elite,2.472,True,AE,United Arab Emirates
-47.91.121.127:999,47.91.121.127,999,socks5,elite,2.47,True,AE,United Arab Emirates
-47.91.115.179:9098,47.91.115.179,9098,socks5,elite,2.474,True,AE,United Arab Emirates
-47.91.120.190:9999,47.91.120.190,9999,socks5,elite,2.475,True,AE,United Arab Emirates
-47.91.110.148:1266,47.91.110.148,1266,socks5,elite,2.474,True,AE,United Arab Emirates
-47.91.115.179:8090,47.91.115.179,8090,socks5,elite,2.482,True,AE,United Arab Emirates
-72.195.34.42:4145,72.195.34.42,4145,socks5,elite,2.288,True,US,United States
-47.57.242.244:5080,47.57.242.244,5080,socks5,elite,2.818,True,HK,Hong Kong
-59.36.210.211:13552,59.36.210.211,13552,socks5,elite,1.522,True,CN,China
-8.218.101.70:1011,8.218.101.70,1011,socks5,elite,0.279,True,HK,Hong Kong
-120.133.82.62:44019,120.133.82.62,44019,socks5,elite,1.854,True,CN,China
-98.170.57.241:4145,98.170.57.241,4145,socks5,elite,1.295,True,US,United States
-47.91.109.17:1081,47.91.109.17,1081,socks5,elite,2.718,True,AE,United Arab Emirates
-47.91.109.17:123,47.91.109.17,123,socks5,elite,2.725,True,AE,United Arab Emirates
-139.28.240.201:1082,139.28.240.201,1082,socks5,elite,2.315,True,TR,Türkiye
-47.91.109.17:80,47.91.109.17,80,socks5,elite,2.745,True,AE,United Arab Emirates
-95.181.160.39:80,95.181.160.39,80,http,elite,0.601,False,DE,Germany
-154.68.64.4:80,154.68.64.4,80,http,elite,1.243,False,RW,Rwanda
-94.78.67.171:80,94.78.67.171,80,http,elite,0.395,False,CY,Cyprus
-8.130.54.67:1081,8.130.54.67,1081,socks5,elite,2.394,True,CN,China
-154.91.176.171:1080,154.91.176.171,1080,socks5,elite,3.702,True,SC,Seychelles
-8.130.54.67:20000,8.130.54.67,20000,socks5,elite,2.401,True,CN,China
-8.130.54.67:20002,8.130.54.67,20002,socks5,elite,2.405,True,CN,China
-8.130.71.75:3129,8.130.71.75,3129,socks5,elite,2.413,True,CN,China
-143.42.66.91:80,143.42.66.91,80,http,elite,1.186,False,SG,Singapore
-8.130.90.177:8000,8.130.90.177,8000,socks5,elite,2.398,True,CN,China
-8.130.74.114:3129,8.130.74.114,3129,socks5,elite,2.414,True,CN,China
-8.130.90.177:1081,8.130.90.177,1081,socks5,elite,2.406,True,CN,China
-8.130.74.114:1081,8.130.74.114,1081,socks5,elite,2.416,True,CN,China
+103.91.144.55:40000,103.91.144.55,40000,socks5,elite,0.019,True,US,United States
+154.201.75.64:1011,154.201.75.64,1011,socks5,elite,0.035,True,SC,Seychelles
+154.201.75.64:1100,154.201.75.64,1100,socks5,elite,0.033,True,SC,Seychelles
+43.135.153.37:47783,43.135.153.37,47783,socks5,elite,0.036,True,US,United States
+43.162.113.87:2080,43.162.113.87,2080,socks5,elite,0.034,True,US,United States
+43.153.79.124:47783,43.153.79.124,47783,socks5,elite,0.034,True,US,United States
+142.54.226.214:4145,142.54.226.214,4145,socks5,elite,0.044,True,US,United States
+104.37.135.145:4145,104.37.135.145,4145,socks5,elite,0.045,True,US,United States
+107.152.98.5:4145,107.152.98.5,4145,socks5,elite,0.046,True,US,United States
+104.200.135.46:4145,104.200.135.46,4145,socks5,elite,0.046,True,US,United States
+142.54.236.97:4145,142.54.236.97,4145,socks5,elite,0.046,True,US,United States
+142.54.231.38:4145,142.54.231.38,4145,socks5,elite,0.045,True,US,United States
+107.181.161.81:4145,107.181.161.81,4145,socks5,elite,0.046,True,US,United States
+142.54.237.38:4145,142.54.237.38,4145,socks5,elite,0.047,True,US,United States
+107.181.168.145:4145,107.181.168.145,4145,socks5,elite,0.047,True,US,United States
+104.200.152.30:4145,104.200.152.30,4145,socks5,elite,0.045,True,US,United States
+67.203.23.79:8081,67.203.23.79,8081,http,elite,0.021,False,US,United States
+67.203.23.88:8081,67.203.23.88,8081,http,elite,0.021,False,US,United States
+5.78.108.236:5555,5.78.108.236,5555,socks5,elite,0.086,True,US,United States
+152.53.194.105:1080,152.53.194.105,1080,socks5,elite,0.105,True,US,United States
+206.206.103.117:8888,206.206.103.117,8888,http,elite,0.04,False,US,United States
+51.222.104.72:1080,51.222.104.72,1080,socks5,elite,0.139,True,CA,Canada
+23.228.86.236:8081,23.228.86.236,8081,http,elite,0.139,False,US,United States
+199.66.183.251:4145,199.66.183.251,4145,socks5,elite,0.153,True,US,United States
+199.66.183.226:4145,199.66.183.226,4145,socks5,elite,0.152,True,US,United States
+199.66.182.243:4145,199.66.182.243,4145,socks5,elite,0.153,True,US,United States
+192.111.139.163:19404,192.111.139.163,19404,socks5,elite,0.154,True,US,United States
+184.170.249.65:4145,184.170.249.65,4145,socks5,elite,0.154,True,US,United States
+192.111.135.18:18301,192.111.135.18,18301,socks5,elite,0.155,True,US,United States
+184.170.248.5:4145,184.170.248.5,4145,socks5,elite,0.157,True,US,United States
+184.170.245.148:4145,184.170.245.148,4145,socks5,elite,0.155,True,US,United States
+192.111.130.2:4145,192.111.130.2,4145,socks5,elite,0.156,True,US,United States
+184.170.251.30:11288,184.170.251.30,11288,socks5,elite,0.157,True,US,United States
+184.182.240.12:4145,184.182.240.12,4145,socks5,elite,0.205,True,US,United States
+184.182.240.211:4145,184.182.240.211,4145,socks5,elite,0.203,True,US,United States
+174.77.111.197:4145,174.77.111.197,4145,socks5,elite,0.216,True,US,United States
+68.1.210.163:4145,68.1.210.163,4145,socks5,elite,0.211,True,US,United States
+5.249.165.195:20000,5.249.165.195,20000,socks5,elite,0.261,True,DE,Germany
+184.178.172.3:4145,184.178.172.3,4145,socks5,elite,0.217,True,US,United States
+184.181.217.201:4145,184.181.217.201,4145,socks5,elite,0.212,True,US,United States
+174.77.111.198:49547,174.77.111.198,49547,socks5,elite,0.223,True,US,United States
+174.75.211.193:4145,174.75.211.193,4145,socks5,elite,0.208,True,US,United States
+184.178.172.11:4145,184.178.172.11,4145,socks5,elite,0.216,True,US,United States
+72.223.188.92:4145,72.223.188.92,4145,socks5,elite,0.216,True,US,United States
+70.166.167.55:57745,70.166.167.55,57745,socks5,elite,0.219,True,US,United States
+184.178.172.23:4145,184.178.172.23,4145,socks5,elite,0.218,True,US,United States
+184.181.217.220:4145,184.181.217.220,4145,socks5,elite,0.218,True,US,United States
+72.195.114.169:4145,72.195.114.169,4145,socks5,elite,0.226,True,US,United States
+184.181.217.213:4145,184.181.217.213,4145,socks5,elite,0.22,True,US,United States
+72.195.34.42:4145,72.195.34.42,4145,socks5,elite,0.213,True,US,United States
+70.166.167.38:57728,70.166.167.38,57728,socks5,elite,0.23,True,US,United States
+184.181.178.33:4145,184.181.178.33,4145,socks5,elite,0.234,True,US,United States
+72.207.109.5:4145,72.207.109.5,4145,socks5,elite,0.222,True,US,United States
+24.249.199.4:4145,24.249.199.4,4145,socks5,elite,0.228,True,US,United States
+24.249.199.12:4145,24.249.199.12,4145,socks5,elite,0.228,True,US,United States
+68.1.210.189:4145,68.1.210.189,4145,socks5,elite,0.225,True,US,United States
+35.78.212.217:32053,35.78.212.217,32053,socks5,elite,0.231,True,JP,Japan
+174.64.199.82:4145,174.64.199.82,4145,socks5,elite,0.222,True,US,United States
+184.178.172.5:15303,184.178.172.5,15303,socks5,elite,0.232,True,US,United States
+72.207.33.64:4145,72.207.33.64,4145,socks5,elite,0.217,True,US,United States
+184.178.172.17:4145,184.178.172.17,4145,socks5,elite,0.226,True,US,United States
+184.178.172.28:15294,184.178.172.28,15294,socks5,elite,0.224,True,US,United States
+174.77.111.196:4145,174.77.111.196,4145,socks5,elite,0.233,True,US,United States
+184.178.172.13:15311,184.178.172.13,15311,socks5,elite,0.233,True,US,United States
+72.195.114.184:4145,72.195.114.184,4145,socks5,elite,0.229,True,US,United States
+72.195.101.99:4145,72.195.101.99,4145,socks5,elite,0.229,True,US,United States
+174.75.211.222:4145,174.75.211.222,4145,socks5,elite,0.242,True,US,United States
+184.178.172.25:15291,184.178.172.25,15291,socks5,elite,0.233,True,US,United States
+184.181.217.194:4145,184.181.217.194,4145,socks5,elite,0.234,True,US,United States
+72.223.188.67:4145,72.223.188.67,4145,socks5,elite,0.222,True,US,United States
+72.195.34.35:27360,72.195.34.35,27360,socks5,elite,0.23,True,US,United States
+174.64.199.79:4145,174.64.199.79,4145,socks5,elite,0.239,True,US,United States
+72.195.34.41:4145,72.195.34.41,4145,socks5,elite,0.248,True,US,United States
+184.178.172.18:15280,184.178.172.18,15280,socks5,elite,0.248,True,US,United States
+98.170.57.241:4145,98.170.57.241,4145,socks5,elite,0.241,True,US,United States
+184.181.217.206:4145,184.181.217.206,4145,socks5,elite,0.242,True,US,United States
+72.206.74.126:4145,72.206.74.126,4145,socks5,elite,0.267,True,US,United States
+13.38.217.179:29788,13.38.217.179,29788,socks5,elite,0.263,True,FR,France
+15.237.108.20:54588,15.237.108.20,54588,socks5,elite,0.264,True,FR,France
+134.209.18.113:1088,134.209.18.113,1088,socks5,elite,0.271,True,GB,United Kingdom
+93.115.172.144:1080,93.115.172.144,1080,socks5,elite,0.264,True,NL,The Netherlands
+93.190.247.126:30001,93.190.247.126,30001,socks5,elite,0.265,True,NL,The Netherlands
+151.247.209.14:1080,151.247.209.14,1080,socks5,elite,0.275,True,DE,Germany
+37.187.140.119:3080,37.187.140.119,3080,socks5,elite,0.28,True,FR,France
+91.107.254.246:9104,91.107.254.246,9104,socks5,elite,0.274,True,DE,Germany
+150.241.103.177:30000,150.241.103.177,30000,socks5,elite,0.292,True,US,United States
+162.214.159.94:8085,162.214.159.94,8085,http,elite,0.189,False,US,United States
+150.241.91.238:7777,150.241.91.238,7777,socks5,elite,0.305,True,DE,Germany
+112.28.149.156:8443,112.28.149.156,8443,socks5,elite,0.307,True,CN,China
+147.45.39.160:30000,147.45.39.160,30000,socks5,elite,0.307,True,DE,Germany
+124.156.182.217:1080,124.156.182.217,1080,socks5,elite,0.313,True,HK,Hong Kong
+47.76.81.34:1122,47.76.81.34,1122,socks5,elite,0.31,True,HK,Hong Kong
+47.238.234.194:1011,47.238.234.194,1011,socks5,elite,0.316,True,HK,Hong Kong
+47.238.197.190:1011,47.238.197.190,1011,socks5,elite,0.319,True,HK,Hong Kong
+47.76.149.237:1011,47.76.149.237,1011,socks5,elite,0.316,True,HK,Hong Kong
+47.83.14.133:1011,47.83.14.133,1011,socks5,elite,0.317,True,HK,Hong Kong
+47.82.65.93:1011,47.82.65.93,1011,socks5,elite,0.318,True,HK,Hong Kong
+178.172.236.167:8081,178.172.236.167,8081,socks5,elite,0.316,True,BY,Belarus
+47.82.107.150:1011,47.82.107.150,1011,socks5,elite,0.319,True,HK,Hong Kong
+47.83.27.173:1122,47.83.27.173,1122,socks5,elite,0.319,True,HK,Hong Kong
+8.218.106.33:1011,8.218.106.33,1011,socks5,elite,0.32,True,HK,Hong Kong
+162.214.74.29:8085,162.214.74.29,8085,http,elite,0.231,False,US,United States
+223.99.197.190:11012,223.99.197.190,11012,socks5,elite,0.324,True,CN,China
+120.220.197.196:59999,120.220.197.196,59999,socks5,elite,0.328,True,CN,China
+37.9.4.101:1088,37.9.4.101,1088,socks5,elite,0.331,True,RU,Russia
+45.194.33.12:30001,45.194.33.12,30001,socks5,elite,0.333,True,SC,Seychelles
+65.109.148.248:1080,65.109.148.248,1080,socks5,elite,0.343,True,FI,Finland
+154.91.176.171:1080,154.91.176.171,1080,socks5,elite,0.334,True,SC,Seychelles
+158.160.234.55:1080,158.160.234.55,1080,socks5,elite,0.348,True,RU,Russia
+144.31.222.106:7890,144.31.222.106,7890,socks5,elite,0.348,True,RU,Russia
+37.18.73.60:5566,37.18.73.60,5566,socks5,elite,0.334,True,RU,Russia
+34.44.49.215:80,34.44.49.215,80,http,elite,0.17,False,US,United States
+31.24.251.15:1081,31.24.251.15,1081,socks5,elite,0.352,True,FR,France
+154.203.132.81:5080,154.203.132.81,5080,socks5,elite,0.358,True,HK,Hong Kong
+5.35.85.97:1080,5.35.85.97,1080,socks5,elite,0.36,True,RU,Russia
+47.237.132.36:1011,47.237.132.36,1011,socks5,elite,0.366,True,SG,Singapore
+47.236.184.206:1011,47.236.184.206,1011,socks5,elite,0.375,True,SG,Singapore
+47.237.100.95:1011,47.237.100.95,1011,socks5,elite,0.378,True,SG,Singapore
+36.33.1.106:43681,36.33.1.106,43681,socks5,elite,0.396,True,CN,China
+27.155.93.29:5080,27.155.93.29,5080,socks5,elite,0.436,True,CN,China
+113.250.190.81:32735,113.250.190.81,32735,socks5,elite,0.467,True,CN,China
+117.50.194.130:7890,117.50.194.130,7890,socks5,elite,0.438,True,CN,China
+144.24.111.128:1088,144.24.111.128,1088,socks5,elite,0.467,True,IN,India
+144.91.121.61:1088,144.91.121.61,1088,socks5,elite,0.498,True,FR,France
+66.42.224.229:41679,66.42.224.229,41679,socks5,elite,0.496,True,US,United States
+216.68.128.121:4145,216.68.128.121,4145,socks5,elite,0.498,True,US,United States
+208.102.51.6:58208,208.102.51.6,58208,socks5,elite,0.498,True,US,United States
+121.169.46.116:1090,121.169.46.116,1090,socks5,elite,0.667,True,KR,South Korea
+89.47.113.13:9150,89.47.113.13,9150,socks5,elite,0.679,True,TR,Türkiye
+216.22.13.244:1083,216.22.13.244,1083,socks5,elite,0.772,True,US,United States
+47.91.65.12:80,47.91.65.12,80,http,elite,0.266,False,DE,Germany
+109.199.119.160:80,109.199.119.160,80,http,elite,0.279,False,FR,France
+184.185.2.12:4145,184.185.2.12,4145,socks5,elite,0.201,True,US,United States
+43.133.175.183:7890,43.133.175.183,7890,http,elite,0.574,False,JP,Japan
+45.146.163.31:80,45.146.163.31,80,http,elite,0.605,False,JP,Japan
+16.163.88.228:80,16.163.88.228,80,http,elite,0.317,False,HK,Hong Kong
+178.212.144.7:80,178.212.144.7,80,http,elite,0.327,False,PL,Poland
+89.169.190.135:1080,89.169.190.135,1080,socks5,elite,1.271,True,RU,Russia
+193.222.99.32:1080,193.222.99.32,1080,socks5,elite,1.331,True,DE,Germany
+95.181.160.39:80,95.181.160.39,80,http,elite,0.49,False,DE,Germany
+67.207.92.87:1088,67.207.92.87,1088,socks5,elite,0.483,True,US,United States
+94.78.67.171:80,94.78.67.171,80,http,elite,0.366,False,CY,Cyprus
+13.214.151.56:8081,13.214.151.56,8081,http,elite,0.581,True,SG,Singapore
+72.49.49.11:31034,72.49.49.11,31034,socks5,elite,1.553,True,US,United States
+69.61.200.104:36181,69.61.200.104,36181,socks5,elite,1.572,True,US,United States
+195.26.230.202:8080,195.26.230.202,8080,http,elite,0.689,False,FI,Finland
+45.79.9.246:1080,45.79.9.246,1080,socks5,elite,2.055,True,US,United States
+47.90.167.27:8880,47.90.167.27,8880,socks5,elite,2.127,True,US,United States
+47.90.167.27:11,47.90.167.27,11,socks5,elite,2.143,True,US,United States
+47.251.74.38:3129,47.251.74.38,3129,socks5,elite,2.169,True,US,United States
+47.251.74.38:2000,47.251.74.38,2000,socks5,elite,2.167,True,US,United States
+125.122.35.253:8086,125.122.35.253,8086,http,elite,0.804,False,CN,China
+185.88.177.40:80,185.88.177.40,80,http,elite,0.759,False,IR,Iran
+223.75.121.218:12120,223.75.121.218,12120,socks5,elite,1.905,True,CN,China
+47.254.36.213:104,47.254.36.213,104,socks5,elite,2.285,True,US,United States
+113.204.79.230:9091,113.204.79.230,9091,http,elite,0.887,False,CN,China
+219.93.101.62:80,219.93.101.62,80,http,elite,0.933,False,MY,Malaysia
+219.93.101.63:80,219.93.101.63,80,http,elite,0.957,False,MY,Malaysia
+185.135.69.34:80,185.135.69.34,80,http,elite,0.539,False,IQ,Iraq
 8.213.134.213:1111,8.213.134.213,1111,socks5,elite,2.291,True,KR,South Korea
-8.212.168.170:1081,8.212.168.170,1081,socks5,elite,2.361,True,PH,Philippines
-47.90.167.27:8880,47.90.167.27,8880,socks5,elite,3.115,True,US,United States
-89.47.113.13:9150,89.47.113.13,9150,socks5,elite,1.933,True,TR,Türkiye
-213.136.77.119:8888,213.136.77.119,8888,http,elite,0.889,True,FR,France
-8.213.128.6:102,8.213.128.6,102,socks5,elite,2.627,True,KR,South Korea
-8.221.141.88:8118,8.221.141.88,8118,socks5,elite,2.204,True,JP,Japan
-8.221.141.88:2101,8.221.141.88,2101,socks5,elite,2.205,True,JP,Japan
-193.222.99.32:1080,193.222.99.32,1080,socks4,elite,0.433,True,DE,Germany
-8.215.15.163:11,8.215.15.163,11,socks5,elite,2.353,True,ID,Indonesia
-91.231.186.236:8181,91.231.186.236,8181,http,elite,1.083,True,GB,United Kingdom
-8.221.138.111:8443,8.221.138.111,8443,socks5,elite,2.216,True,JP,Japan
-91.231.186.236:8080,91.231.186.236,8080,http,elite,1.084,True,GB,United Kingdom
-8.220.204.92:8091,8.220.204.92,8091,socks5,elite,2.24,True,KR,South Korea
-8.212.151.166:8018,8.212.151.166,8018,socks5,elite,2.764,True,PH,Philippines
-8.212.151.166:4100,8.212.151.166,4100,socks5,elite,2.791,True,PH,Philippines
-8.220.204.92:100,8.220.204.92,100,socks5,elite,2.245,True,KR,South Korea
-8.212.151.166:4145,8.212.151.166,4145,socks5,elite,2.758,True,PH,Philippines
-8.212.151.166:9797,8.212.151.166,9797,socks5,elite,2.76,True,PH,Philippines
-8.212.151.166:6379,8.212.151.166,6379,socks5,elite,2.768,True,PH,Philippines
-8.212.151.166:20000,8.212.151.166,20000,socks5,elite,2.812,True,PH,Philippines
-8.215.15.163:1337,8.215.15.163,1337,socks5,elite,2.357,True,ID,Indonesia
-8.219.229.53:1081,8.219.229.53,1081,socks5,elite,2.324,True,SG,Singapore
-8.219.229.53:8888,8.219.229.53,8888,socks5,elite,2.322,True,SG,Singapore
-8.219.229.53:111,8.219.229.53,111,socks5,elite,2.323,True,SG,Singapore
-8.219.229.53:11,8.219.229.53,11,socks5,elite,2.322,True,SG,Singapore
-8.219.229.53:9080,8.219.229.53,9080,socks5,elite,2.323,True,SG,Singapore
-47.238.128.246:9098,47.238.128.246,9098,socks5,elite,3.494,True,HK,Hong Kong
-8.210.17.35:80,8.210.17.35,80,socks5,elite,2.78,True,HK,Hong Kong
-47.238.134.126:8008,47.238.134.126,8008,socks5,elite,3.553,True,HK,Hong Kong
-47.238.60.156:1081,47.238.60.156,1081,socks5,elite,3.584,True,HK,Hong Kong
-37.18.73.60:5566,37.18.73.60,5566,socks5,elite,4.461,True,RU,Russia
-8.130.37.235:3129,8.130.37.235,3129,socks5,elite,3.38,True,CN,China
-8.130.37.235:8443,8.130.37.235,8443,socks5,elite,3.373,True,CN,China
-8.221.139.222:4145,8.221.139.222,4145,socks5,elite,2.224,True,JP,Japan
-8.213.215.187:6379,8.213.215.187,6379,socks5,elite,2.815,True,TH,Thailand
-8.220.136.174:30001,8.220.136.174,30001,socks5,elite,2.625,True,PH,Philippines
-8.220.136.174:8091,8.220.136.174,8091,socks5,elite,2.625,True,PH,Philippines
-8.220.136.174:4006,8.220.136.174,4006,socks5,elite,2.622,True,PH,Philippines
-8.220.141.8:8123,8.220.141.8,8123,socks5,elite,2.716,True,PH,Philippines
-47.91.89.3:4000,47.91.89.3,4000,socks5,elite,3.872,True,DE,Germany
-47.91.89.3:1000,47.91.89.3,1000,socks5,elite,3.861,True,DE,Germany
-188.0.240.170:2080,188.0.240.170,2080,socks4,elite,0.456,True,IR,Iran
-219.151.185.12:18255,219.151.185.12,18255,http,elite,2.372,True,CN,China
-31.187.64.243:10086,31.187.64.243,10086,socks5,elite,5.095,True,NL,The Netherlands
-47.251.74.38:2000,47.251.74.38,2000,socks5,elite,4.686,True,US,United States
-47.251.74.38:3129,47.251.74.38,3129,socks5,elite,4.7,True,US,United States
-8.220.204.215:443,8.220.204.215,443,socks5,elite,3.242,True,KR,South Korea
-8.219.97.248:80,8.219.97.248,80,http,elite,2.816,False,SG,Singapore
-8.215.12.103:8060,8.215.12.103,8060,socks5,elite,3.652,True,ID,Indonesia
-8.220.205.172:1337,8.220.205.172,1337,socks5,elite,3.529,True,KR,South Korea
-8.220.205.172:6379,8.220.205.172,6379,socks5,elite,3.53,True,KR,South Korea
-117.50.194.130:7890,117.50.194.130,7890,socks4,elite,0.415,True,CN,China
-8.213.222.157:8999,8.213.222.157,8999,socks5,elite,3.74,True,TH,Thailand
-120.232.115.170:17981,120.232.115.170,17981,http,elite,0.812,False,CN,China
-119.188.131.55:17981,119.188.131.55,17981,http,elite,0.845,False,CN,China
+8.220.204.92:8091,8.220.204.92,8091,socks5,elite,2.307,True,KR,South Korea
+8.220.204.92:100,8.220.204.92,100,socks5,elite,2.304,True,KR,South Korea
+219.93.101.60:80,219.93.101.60,80,http,elite,0.993,False,MY,Malaysia
+61.158.175.38:9002,61.158.175.38,9002,http,elite,0.972,False,CN,China
+192.229.85.39:33142,192.229.85.39,33142,socks5,elite,2.235,True,SG,Singapore
+153.0.171.163:8085,153.0.171.163,8085,http,elite,0.981,False,CN,China
+47.76.144.139:81,47.76.144.139,81,socks5,elite,2.371,True,HK,Hong Kong
+47.76.144.139:8081,47.76.144.139,8081,socks5,elite,2.371,True,HK,Hong Kong
+149.129.213.200:80,149.129.213.200,80,socks5,elite,2.386,True,ID,Indonesia
+47.76.144.139:9443,47.76.144.139,9443,socks5,elite,2.394,True,HK,Hong Kong
+47.250.177.202:8118,47.250.177.202,8118,socks5,elite,2.395,True,MY,Malaysia
+8.215.15.163:1337,8.215.15.163,1337,socks5,elite,2.388,True,ID,Indonesia
+47.250.177.202:3129,47.250.177.202,3129,socks5,elite,2.397,True,MY,Malaysia
+47.250.177.202:8081,47.250.177.202,8081,socks5,elite,2.396,True,MY,Malaysia
+47.250.177.202:41451,47.250.177.202,41451,socks5,elite,2.4,True,MY,Malaysia
+8.210.17.35:80,8.210.17.35,80,socks5,elite,2.403,True,HK,Hong Kong
+8.215.15.163:11,8.215.15.163,11,socks5,elite,2.389,True,ID,Indonesia
+47.238.134.126:8008,47.238.134.126,8008,socks5,elite,2.4,True,HK,Hong Kong
+47.250.177.202:999,47.250.177.202,999,socks5,elite,2.43,True,MY,Malaysia
+47.250.177.202:8181,47.250.177.202,8181,socks5,elite,2.428,True,MY,Malaysia
+27.34.242.98:80,27.34.242.98,80,http,elite,0.896,False,IN,India
+47.250.11.111:199,47.250.11.111,199,socks5,elite,2.449,True,MY,Malaysia
+47.250.11.111:81,47.250.11.111,81,socks5,elite,2.445,True,MY,Malaysia
+8.130.37.235:3129,8.130.37.235,3129,socks5,elite,2.429,True,CN,China
+47.237.107.41:2000,47.237.107.41,2000,socks5,elite,2.471,True,SG,Singapore
+47.250.177.202:111,47.250.177.202,111,socks5,elite,2.47,True,MY,Malaysia
+47.237.113.119:6379,47.237.113.119,6379,socks5,elite,2.467,True,SG,Singapore
+8.130.74.114:3129,8.130.74.114,3129,socks5,elite,2.433,True,CN,China
+8.130.71.75:3129,8.130.71.75,3129,socks5,elite,2.445,True,CN,China
+8.130.90.177:8000,8.130.90.177,8000,socks5,elite,2.437,True,CN,China
+8.130.37.235:8443,8.130.37.235,8443,socks5,elite,2.441,True,CN,China
+8.130.90.177:1081,8.130.90.177,1081,socks5,elite,2.443,True,CN,China
+8.130.74.114:1081,8.130.74.114,1081,socks5,elite,2.443,True,CN,China
+8.130.54.67:20000,8.130.54.67,20000,socks5,elite,2.443,True,CN,China
+47.250.177.202:9080,47.250.177.202,9080,socks5,elite,2.477,True,MY,Malaysia
+47.250.177.202:8083,47.250.177.202,8083,socks5,elite,2.479,True,MY,Malaysia
+47.250.177.202:80,47.250.177.202,80,socks5,elite,2.486,True,MY,Malaysia
+47.250.177.202:8888,47.250.177.202,8888,socks5,elite,2.48,True,MY,Malaysia
+47.92.219.102:8090,47.92.219.102,8090,socks5,elite,2.451,True,CN,China
+8.130.54.67:1081,8.130.54.67,1081,socks5,elite,2.443,True,CN,China
+8.130.54.67:20002,8.130.54.67,20002,socks5,elite,2.443,True,CN,China
+47.237.107.41:135,47.237.107.41,135,socks5,elite,2.507,True,SG,Singapore
+47.91.104.110:80,47.91.104.110,80,socks5,elite,2.469,True,AE,United Arab Emirates
+8.212.151.166:4145,8.212.151.166,4145,socks5,elite,2.48,True,PH,Philippines
+8.212.151.166:9797,8.212.151.166,9797,socks5,elite,2.482,True,PH,Philippines
+47.91.121.127:8443,47.91.121.127,8443,socks5,elite,2.471,True,AE,United Arab Emirates
+47.91.121.127:999,47.91.121.127,999,socks5,elite,2.468,True,AE,United Arab Emirates
+47.91.121.127:50,47.91.121.127,50,socks5,elite,2.472,True,AE,United Arab Emirates
+47.91.121.127:194,47.91.121.127,194,socks5,elite,2.476,True,AE,United Arab Emirates
+47.250.51.110:8060,47.250.51.110,8060,socks5,elite,2.524,True,MY,Malaysia
+47.91.121.127:9080,47.91.121.127,9080,socks5,elite,2.477,True,AE,United Arab Emirates
+47.91.121.127:6379,47.91.121.127,6379,socks5,elite,2.485,True,AE,United Arab Emirates
+47.250.51.110:1081,47.250.51.110,1081,socks5,elite,2.538,True,MY,Malaysia
+47.91.115.179:9098,47.91.115.179,9098,socks5,elite,2.483,True,AE,United Arab Emirates
+47.91.115.179:45,47.91.115.179,45,socks5,elite,2.487,True,AE,United Arab Emirates
+47.91.120.190:9999,47.91.120.190,9999,socks5,elite,2.482,True,AE,United Arab Emirates
+47.250.51.110:50070,47.250.51.110,50070,socks5,elite,2.56,True,MY,Malaysia
+47.250.51.110:9090,47.250.51.110,9090,socks5,elite,2.558,True,MY,Malaysia
+47.250.51.110:4145,47.250.51.110,4145,socks5,elite,2.56,True,MY,Malaysia
+8.221.138.111:8443,8.221.138.111,8443,socks5,elite,2.555,True,JP,Japan
+47.250.51.110:8443,47.250.51.110,8443,socks5,elite,2.564,True,MY,Malaysia
+47.91.120.190:1234,47.91.120.190,1234,socks5,elite,2.508,True,AE,United Arab Emirates
+47.250.11.111:13,47.250.11.111,13,socks5,elite,2.577,True,MY,Malaysia
+47.91.121.127:10000,47.91.121.127,10000,socks5,elite,2.526,True,AE,United Arab Emirates
+47.91.121.127:81,47.91.121.127,81,socks5,elite,2.53,True,AE,United Arab Emirates
+159.138.169.48:2080,159.138.169.48,2080,socks5,elite,2.523,True,ZA,South Africa
+47.250.11.111:80,47.250.11.111,80,socks5,elite,2.6,True,MY,Malaysia
+47.250.11.111:161,47.250.11.111,161,socks5,elite,2.609,True,MY,Malaysia
+8.220.141.8:8123,8.220.141.8,8123,socks5,elite,2.568,True,PH,Philippines
+47.237.113.119:8443,47.237.113.119,8443,socks5,elite,2.616,True,SG,Singapore
+47.237.113.119:14,47.237.113.119,14,socks5,elite,2.617,True,SG,Singapore
+8.212.151.166:8018,8.212.151.166,8018,socks5,elite,2.583,True,PH,Philippines
+47.237.2.245:80,47.237.2.245,80,socks5,elite,2.596,True,SG,Singapore
+47.237.2.245:119,47.237.2.245,119,socks5,elite,2.598,True,SG,Singapore
+47.237.2.245:1311,47.237.2.245,1311,socks5,elite,2.597,True,SG,Singapore
+47.237.2.245:2000,47.237.2.245,2000,socks5,elite,2.635,True,SG,Singapore
+47.237.2.245:9098,47.237.2.245,9098,socks5,elite,2.634,True,SG,Singapore
+47.237.2.245:6379,47.237.2.245,6379,socks5,elite,2.635,True,SG,Singapore
+47.237.2.245:8888,47.237.2.245,8888,socks5,elite,2.637,True,SG,Singapore
+47.91.115.179:8090,47.91.115.179,8090,socks5,elite,2.609,True,AE,United Arab Emirates
+8.213.215.187:6379,8.213.215.187,6379,socks5,elite,2.632,True,TH,Thailand
+47.91.115.179:31433,47.91.115.179,31433,socks5,elite,2.627,True,AE,United Arab Emirates
+47.237.2.245:87,47.237.2.245,87,socks5,elite,2.698,True,SG,Singapore
+47.237.2.245:443,47.237.2.245,443,socks5,elite,2.669,True,SG,Singapore
+47.250.155.254:8003,47.250.155.254,8003,socks5,elite,2.705,True,MY,Malaysia
+47.250.155.254:3129,47.250.155.254,3129,socks5,elite,2.709,True,MY,Malaysia
+47.250.155.254:8004,47.250.155.254,8004,socks5,elite,2.705,True,MY,Malaysia
+47.250.155.254:8080,47.250.155.254,8080,socks5,elite,2.706,True,MY,Malaysia
+47.250.155.254:1081,47.250.155.254,1081,socks5,elite,2.712,True,MY,Malaysia
+47.250.155.254:111,47.250.155.254,111,socks5,elite,2.71,True,MY,Malaysia
+47.250.155.254:45,47.250.155.254,45,socks5,elite,2.716,True,MY,Malaysia
+47.250.155.254:8443,47.250.155.254,8443,socks5,elite,2.716,True,MY,Malaysia
+202.28.194.139:31280,202.28.194.139,31280,http,elite,1.062,True,TH,Thailand
+47.242.243.198:2233,47.242.243.198,2233,http,elite,1.811,True,HK,Hong Kong
+47.91.110.148:8443,47.91.110.148,8443,socks5,elite,2.695,True,AE,United Arab Emirates
+47.237.113.119:89,47.237.113.119,89,socks5,elite,2.755,True,SG,Singapore
+8.220.205.172:6379,8.220.205.172,6379,socks5,elite,2.728,True,KR,South Korea
+8.220.205.172:1337,8.220.205.172,1337,socks5,elite,2.735,True,KR,South Korea
+47.237.2.245:5060,47.237.2.245,5060,socks5,elite,2.769,True,SG,Singapore
+47.237.2.245:1081,47.237.2.245,1081,socks5,elite,2.772,True,SG,Singapore
+14.139.235.82:3128,14.139.235.82,3128,http,elite,1.024,True,IN,India
+47.250.159.65:50,47.250.159.65,50,socks5,elite,2.779,True,MY,Malaysia
+47.250.159.65:443,47.250.159.65,443,socks5,elite,2.787,True,MY,Malaysia
+47.91.110.148:1266,47.91.110.148,1266,socks5,elite,2.761,True,AE,United Arab Emirates
+47.237.2.245:45,47.237.2.245,45,socks5,elite,2.828,True,SG,Singapore
+47.237.2.245:2002,47.237.2.245,2002,socks5,elite,2.829,True,SG,Singapore
+47.250.159.65:9000,47.250.159.65,9000,socks5,elite,2.824,True,MY,Malaysia
+8.212.151.166:4100,8.212.151.166,4100,socks5,elite,2.801,True,PH,Philippines
+8.212.151.166:6379,8.212.151.166,6379,socks5,elite,2.797,True,PH,Philippines
+8.212.151.166:20000,8.212.151.166,20000,socks5,elite,2.81,True,PH,Philippines
+47.91.110.148:8123,47.91.110.148,8123,socks5,elite,2.804,True,AE,United Arab Emirates
+47.237.113.119:8008,47.237.113.119,8008,socks5,elite,2.883,True,SG,Singapore
+47.91.109.17:1081,47.91.109.17,1081,socks5,elite,2.792,True,AE,United Arab Emirates
+47.91.109.17:80,47.91.109.17,80,socks5,elite,2.8,True,AE,United Arab Emirates
+47.91.120.190:3129,47.91.120.190,3129,socks5,elite,2.865,True,AE,United Arab Emirates
+47.91.109.17:123,47.91.109.17,123,socks5,elite,2.815,True,AE,United Arab Emirates
+13.214.205.160:8024,13.214.205.160,8024,socks5,elite,3.023,True,SG,Singapore
+8.220.136.174:4006,8.220.136.174,4006,socks5,elite,2.914,True,PH,Philippines
+8.220.204.215:443,8.220.204.215,443,socks5,elite,3.079,True,KR,South Korea
+91.199.43.167:8082,91.199.43.167,8082,socks5,elite,3.127,True,IR,Iran
+47.57.242.244:5080,47.57.242.244,5080,socks5,elite,3.147,True,HK,Hong Kong
+143.42.66.91:80,143.42.66.91,80,http,elite,1.159,False,SG,Singapore
+101.66.199.234:8085,101.66.199.234,8085,http,elite,1.087,False,CN,China
+154.68.64.4:80,154.68.64.4,80,http,elite,1.231,False,RW,Rwanda
+152.228.134.176:48080,152.228.134.176,48080,socks5,elite,3.541,True,FR,France
+31.187.64.243:10086,31.187.64.243,10086,socks5,elite,2.236,True,NL,The Netherlands
+8.220.136.174:30001,8.220.136.174,30001,socks5,elite,3.663,True,PH,Philippines
+8.220.136.174:8091,8.220.136.174,8091,socks5,elite,3.698,True,PH,Philippines
+47.91.89.3:4000,47.91.89.3,4000,socks5,elite,3.375,True,DE,Germany
+120.133.82.62:44019,120.133.82.62,44019,socks5,elite,3.665,True,CN,China
+185.185.80.58:1088,185.185.80.58,1088,socks5,elite,2.802,True,FR,France
+47.91.89.3:1000,47.91.89.3,1000,socks5,elite,3.619,True,DE,Germany
+47.238.60.156:1081,47.238.60.156,1081,socks5,elite,3.494,True,HK,Hong Kong
+47.238.128.246:9098,47.238.128.246,9098,socks5,elite,3.547,True,HK,Hong Kong
+213.136.77.119:8888,213.136.77.119,8888,http,elite,1.239,True,FR,France
+186.246.14.205:9050,186.246.14.205,9050,socks5,elite,4.45,True,RU,Russia
+59.36.210.211:13552,59.36.210.211,13552,socks5,elite,4.524,True,CN,China
+149.129.255.179:10443,149.129.255.179,10443,socks5,elite,4.744,True,ID,Indonesia
+219.151.185.12:18255,219.151.185.12,18255,http,elite,3.718,True,CN,China
+188.0.240.170:2080,188.0.240.170,2080,socks4,elite,0.425,True,IR,Iran
+8.215.12.103:8060,8.215.12.103,8060,socks5,elite,3.656,True,ID,Indonesia
+8.211.195.139:9080,8.211.195.139,9080,socks5,elite,4.935,True,GB,United Kingdom
+112.64.135.45:8080,112.64.135.45,8080,http,elite,0.884,False,CN,China
 122.246.3.12:17981,122.246.3.12,17981,http,elite,0.817,False,CN,China
-116.196.150.180:17981,116.196.150.180,17981,http,elite,0.868,False,CN,China
-27.185.218.213:17981,27.185.218.213,17981,http,elite,0.825,False,CN,China
-147.78.0.81:9443,147.78.0.81,9443,http,elite,0.83,False,AE,United Arab Emirates
-58.254.153.146:17981,58.254.153.146,17981,http,elite,0.781,False,CN,China
-113.249.102.27:18255,113.249.102.27,18255,http,elite,3.543,True,CN,China
-8.211.195.139:9080,8.211.195.139,9080,socks5,elite,5.022,True,GB,United Kingdom
-113.249.102.192:18255,113.249.102.192,18255,http,elite,4.216,True,CN,China
-183.110.216.128:8091,183.110.216.128,8091,http,elite,1.665,False,KR,South Korea
-103.65.237.92:5678,103.65.237.92,5678,http,elite,4.014,False,ID,Indonesia
-61.49.87.3:80,61.49.87.3,80,http,elite,2.234,False,CN,China
-219.65.73.80:80,219.65.73.80,80,http,elite,2.22,False,IN,India
-219.65.73.81:80,219.65.73.81,80,http,elite,2.186,False,IN,India
-41.220.16.213:80,41.220.16.213,80,http,elite,2.116,False,ZW,Zimbabwe
-199.7.149.90:3128,199.7.149.90,3128,http,elite,0.14,True,US,United States
-13.221.202.200:3128,13.221.202.200,3128,http,elite,0.171,True,US,United States
-216.106.182.177:3128,216.106.182.177,3128,http,elite,0.207,True,US,United States
-112.64.135.45:8080,112.64.135.45,8080,http,elite,0.879,False,CN,China
-160.34.208.144:80,160.34.208.144,80,http,elite,0.255,False,MX,Mexico
-64.112.184.210:3128,64.112.184.210,3128,http,elite,0.131,True,US,United States
-190.97.236.129:999,190.97.236.129,999,http,anonymous,0.368,True,VE,Venezuela
-190.97.236.128:999,190.97.236.128,999,http,anonymous,0.374,True,VE,Venezuela
-223.80.109.182:7302,223.80.109.182,7302,http,elite,0.308,False,CN,China
-15.235.21.254:8080,15.235.21.254,8080,http,elite,0.7,True,CA,Canada
-1.231.81.166:3128,1.231.81.166,3128,http,elite,0.492,True,KR,South Korea
-181.78.74.253:999,181.78.74.253,999,http,anonymous,0.397,True,CO,Colombia
-181.78.74.252:999,181.78.74.252,999,http,anonymous,0.392,True,CO,Colombia
-204.76.203.9:8080,204.76.203.9,8080,http,elite,0.386,True,NL,The Netherlands
-141.98.153.86:80,141.98.153.86,80,http,elite,0.419,False,DE,Germany
-181.39.25.196:8118,181.39.25.196,8118,http,elite,0.462,True,EC,Ecuador
-103.237.102.191:11111,103.237.102.191,11111,http,elite,0.474,True,DE,Germany
-103.82.20.76:8080,103.82.20.76,8080,http,elite,4.268,False,VN,Vietnam
-180.167.238.98:7302,180.167.238.98,7302,http,elite,0.399,True,CN,China
-46.47.197.210:3128,46.47.197.210,3128,http,elite,0.459,False,RU,Russia
-206.245.131.160:80,206.245.131.160,80,http,elite,0.626,False,FR,France
-130.110.103.245:3128,130.110.103.245,3128,http,elite,0.612,True,SA,Saudi Arabia
-114.252.232.22:1085,114.252.232.22,1085,http,elite,3.203,False,CN,China
-45.174.168.11:999,45.174.168.11,999,http,anonymous,0.272,False,MX,Mexico
-212.58.132.5:8888,212.58.132.5,8888,http,elite,0.96,True,US,United States
-37.59.125.131:8888,37.59.125.131,8888,http,elite,3.647,True,FR,France
-98.83.197.228:3128,98.83.197.228,3128,http,elite,0.232,True,US,United States
-129.213.162.27:17777,129.213.162.27,17777,http,elite,0.132,False,US,United States
-167.99.124.118:80,167.99.124.118,80,http,elite,1.954,False,US,United States
-165.154.162.73:8888,165.154.162.73,8888,http,elite,1.472,True,US,United States
-168.121.222.230:80,168.121.222.230,80,http,elite,1.328,False,PE,Peru
-34.134.231.117:3129,34.134.231.117,3129,http,elite,1.87,True,US,United States
-117.236.124.166:3128,117.236.124.166,3128,http,elite,0.974,True,IN,India
-8.215.112.214:7777,8.215.112.214,7777,http,elite,0.612,True,ID,Indonesia
-95.211.174.135:3128,95.211.174.135,3128,http,elite,0.386,True,NL,The Netherlands
-47.81.56.193:8888,47.81.56.193,8888,http,elite,2.23,True,TH,Thailand
-41.65.103.190:8080,41.65.103.190,8080,http,anonymous,2.624,False,EG,Egypt
-103.95.34.186:3128,103.95.34.186,3128,http,elite,0.826,False,MY,Malaysia
-45.176.99.58:999,45.176.99.58,999,http,anonymous,0.845,True,DO,Dominican Republic
-31.28.4.192:80,31.28.4.192,80,http,elite,5.297,False,RU,Russia
-89.251.21.45:8080,89.251.21.45,8080,http,anonymous,0.834,True,SY,Syria
-24.152.40.49:8080,24.152.40.49,8080,http,anonymous,2.464,False,PY,Paraguay
-190.120.185.25:999,190.120.185.25,999,http,anonymous,0.66,False,AR,Argentina
-153.80.240.37:8080,153.80.240.37,8080,http,elite,0.505,True,RU,Russia
-195.133.53.59:10809,195.133.53.59,10809,http,elite,3.571,True,RU,Russia
-103.155.198.163:8080,103.155.198.163,8080,http,anonymous,2.735,True,ID,Indonesia
-95.40.233.164:3128,95.40.233.164,3128,http,elite,0.519,True,HK,Hong Kong
-36.91.174.26:8080,36.91.174.26,8080,http,anonymous,0.894,False,ID,Indonesia
-110.44.115.83:8080,110.44.115.83,8080,http,elite,2.147,False,NP,Nepal
-114.236.137.41:21000,114.236.137.41,21000,http,elite,0.632,False,CN,China
-47.84.84.1:3128,47.84.84.1,3128,http,elite,1.591,False,SG,Singapore
-91.228.133.191:8888,91.228.133.191,8888,http,elite,1.572,False,IR,Iran
-176.61.151.123:80,176.61.151.123,80,http,elite,2.213,False,PT,Portugal
-89.110.115.238:80,89.110.115.238,80,http,elite,0.465,False,NL,The Netherlands
-151.243.153.157:8118,151.243.153.157,8118,http,elite,4.22,True,US,United States
-223.85.21.195:8080,223.85.21.195,8080,http,elite,1.937,False,CN,China
-163.172.53.142:80,163.172.53.142,80,http,elite,3.335,False,FR,France
-38.172.179.192:999,38.172.179.192,999,http,anonymous,2.851,False,VE,Venezuela
-103.94.52.70:3128,103.94.52.70,3128,http,elite,4.072,False,MM,Myanmar
-195.158.8.123:3128,195.158.8.123,3128,http,elite,4.195,True,UZ,Uzbekistan
+120.232.115.170:17981,120.232.115.170,17981,http,elite,0.881,False,CN,China
+116.196.150.180:17981,116.196.150.180,17981,http,elite,0.918,False,CN,China
+27.185.218.213:17981,27.185.218.213,17981,http,elite,0.906,False,CN,China
+147.78.0.81:9443,147.78.0.81,9443,http,elite,0.842,False,AE,United Arab Emirates
+219.65.73.80:80,219.65.73.80,80,http,elite,1.589,False,IN,India
+219.65.73.81:80,219.65.73.81,80,http,elite,1.587,False,IN,India
+8.212.168.170:1081,8.212.168.170,1081,socks4,elite,2.625,True,PH,Philippines
+8.221.141.88:8118,8.221.141.88,8118,socks4,elite,3.449,True,JP,Japan
+8.221.141.88:2101,8.221.141.88,2101,socks4,elite,3.458,True,JP,Japan
+160.34.208.144:80,160.34.208.144,80,http,elite,0.185,False,MX,Mexico
+216.106.182.177:3128,216.106.182.177,3128,http,elite,0.125,True,US,United States
+98.83.197.228:3128,98.83.197.228,3128,http,elite,0.113,True,US,United States
+13.221.202.200:3128,13.221.202.200,3128,http,elite,0.11,True,US,United States
+64.112.184.210:3128,64.112.184.210,3128,http,elite,0.159,True,US,United States
+199.7.149.90:3128,199.7.149.90,3128,http,elite,0.139,True,US,United States
+15.235.21.254:8080,15.235.21.254,8080,http,elite,0.331,True,CA,Canada
+181.78.74.252:999,181.78.74.252,999,http,anonymous,0.352,True,CO,Colombia
+181.78.74.253:999,181.78.74.253,999,http,anonymous,0.374,True,CO,Colombia
+181.39.25.196:8118,181.39.25.196,8118,http,elite,0.427,True,EC,Ecuador
+204.76.203.9:8080,204.76.203.9,8080,http,elite,0.441,True,NL,The Netherlands
+141.98.153.86:80,141.98.153.86,80,http,elite,0.397,False,DE,Germany
+223.80.109.182:7302,223.80.109.182,7302,http,elite,0.33,False,CN,China
+8.213.222.157:8999,8.213.222.157,8999,socks4,elite,5.07,True,TH,Thailand
+1.231.81.166:3128,1.231.81.166,3128,http,elite,0.481,True,KR,South Korea
+61.49.87.3:80,61.49.87.3,80,http,elite,3.52,False,CN,China
+103.237.102.191:11111,103.237.102.191,11111,http,elite,0.59,True,DE,Germany
+206.245.131.160:80,206.245.131.160,80,http,elite,0.524,False,FR,France
+95.211.174.135:3128,95.211.174.135,3128,http,elite,0.366,True,NL,The Netherlands
+95.40.233.164:3128,95.40.233.164,3128,http,elite,0.531,True,HK,Hong Kong
+46.47.197.210:3128,46.47.197.210,3128,http,elite,0.593,False,RU,Russia
+180.167.238.98:7302,180.167.238.98,7302,http,elite,0.436,True,CN,China
+47.84.84.1:3128,47.84.84.1,3128,http,elite,0.723,True,SG,Singapore
+117.236.124.166:3128,117.236.124.166,3128,http,elite,0.691,True,IN,India
+130.110.103.245:3128,130.110.103.245,3128,http,elite,0.625,True,SA,Saudi Arabia
+103.95.34.186:3128,103.95.34.186,3128,http,elite,0.894,False,MY,Malaysia
+212.58.132.5:8888,212.58.132.5,8888,http,elite,1.061,True,US,United States
+34.134.231.117:3129,34.134.231.117,3129,http,elite,1.862,True,US,United States
+47.81.56.193:8888,47.81.56.193,8888,http,elite,2.005,True,TH,Thailand
+151.243.153.157:8118,151.243.153.157,8118,http,elite,2.997,True,US,United States
+89.110.115.238:80,89.110.115.238,80,http,elite,3.528,False,NL,The Netherlands
+190.97.236.129:999,190.97.236.129,999,http,anonymous,1.609,True,VE,Venezuela
+114.236.137.41:21000,114.236.137.41,21000,http,elite,0.611,False,CN,China
+190.97.236.128:999,190.97.236.128,999,http,anonymous,1.339,True,VE,Venezuela
+223.85.21.195:8080,223.85.21.195,8080,http,elite,0.93,False,CN,China
+31.28.4.192:80,31.28.4.192,80,http,elite,4.545,False,RU,Russia
