@@ -1,0 +1,27 @@
+{
+  "schema": 2,
+  "generated_at": "2026-11-07T14:47:03.428127Z",
+  "counts": {
+    "total": 830,
+    "http": 73,
+    "socks4": 0,
+    "socks5": 757,
+    "elite": 828,
+    "anonymous": 2,
+    "ssl": 775,
+    "fast": 144,
+    "best": 121,
+    "verified": 134,
+    "residential": 173,
+    "datacenter": 657,
+    "unknown_hosting": 0,
+    "countries": 36
+  },
+  "avg_latency": 1.93,
+  "quality": {
+    "previous_snapshot_total": 698,
+    "survival_rate": 0.8138,
+    "churn_rate": 0.1862,
+    "note": "survival_rate = fraction of the previous run's proxy list that is still alive in this run. Free lists die FAST; a 5-15% survival rate is normal for 30-min cycles."
+  }
+}
